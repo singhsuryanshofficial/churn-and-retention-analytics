@@ -125,6 +125,7 @@ Provides actionable, business-focused recommendations aligned with analytical in
 ## 📬 Contact
 
 **Suryansh Singh**  
+Data Analyst | SQL • Python • Excel • Power BI | Business Intelligence | Academic Operations & Analytics
 🔗 *LinkedIn* | https://www.linkedin.com/in/suryanshsinghofficial/
 
 ---
